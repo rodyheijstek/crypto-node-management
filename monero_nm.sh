@@ -1,6 +1,9 @@
 # Monero Node Management script
 # monero_nm.sh
 #
+# Installation with one command, in the folder you want to use it: 
+# wget https://raw.githubusercontent.com/rodyheijstek/crypto-node-management/master/monero_nm.sh && chmod +x monero_nm.sh
+#
 # Usage: monero_nm.sh COMMAND
 #
 # Simple script for basic Monero node management
